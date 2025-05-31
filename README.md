@@ -31,8 +31,8 @@ Built as a modern web application, this tool empowers HR departments with effici
 
 ### Clone the Repository
 
-    git clone https://github.com/vijayalluri08/vijay-hr-manager.git
-    cd vijay-hr-manager
+    git clone https://github.com/vijayalluri08/vijay-hrms.git
+    cd vijay-hrms
 
 ## Install Dependencies
 ### Frontend
