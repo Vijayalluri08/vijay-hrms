@@ -89,4 +89,6 @@ Built as a modern web application, this tool empowers HR departments with effici
 
 🏢 Departments       -View and categorize employees by department                       - View employees by department
 
- 
+## Access the Application:
+
+Open your browser and navigate to http://localhost:3000.
