@@ -42,13 +42,13 @@ Built as a modern web application, this tool empowers HR departments with effici
 
 ### Backend
 
-         cd ../server
+         cd backend
          npm install
 
 ## Setup MySQL Database
 
-        Create a new database.
-        Import the schema from db/schema.sql
+        Create a new database. (hr_management_database)
+        Import the schema from hr_management_database/schema.sql
 
 ## Configure Environment Variables (server/.env)
 
