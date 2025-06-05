@@ -1,6 +1,6 @@
 # Vijay HR Manager: Smart HRM Solution
 
-Welcome to Vijay HR Manager, a powerful and user-friendly Human Resource Management System designed to simplify and digitize your employee lifecycle processes.
+  Welcome to Vijay HR Manager, a powerful and user-friendly Human Resource Management System designed to simplify and digitize your employee lifecycle processes.
 
 ## Purpose
 
