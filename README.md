@@ -21,7 +21,7 @@ Built as a modern web application, this tool empowers HR departments with effici
 ## Tech Stack Breakdown
 
   ### Frontend: 
-    React.js + Tailwind CSS🛠 Backend: Node.js + Express.js🗄 
+  React.js + Tailwind CSS🛠 Backend: Node.js + Express.js🗄 
   ### Database: 
     MySQL
   ## Auth:  
